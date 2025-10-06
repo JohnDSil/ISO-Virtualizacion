@@ -1,7 +1,12 @@
 # 💻 II Introducción a la Virtualización
 ![Banner](https://img.shields.io/badge/Virtualización-Documentación-blueviolet?style=for-the-badge&logo=docker) ![Status](https://img.shields.io/badge/Estado-Completo-success?style=for-the-badge)
+
 --- ## 📋 Índice
-``` ╔══════════════════════════════════════════════════════════╗ ║ 📚 CONTENIDO DEL CURSO ║ ╚══════════════════════════════════════════════════════════╝ ```
+
+  ╔══════════════════════════════════════════════════════════╗ 
+  ║ 📚 CONTENIDO DEL CURSO                                   ║
+  ╚══════════════════════════════════════════════════════════╝
+
 ### 🚀 **[1. Introducción](1.md)** > *Primeros pasos en el mundo de la virtualización* - ¿Qué es la virtualización? - Historia y evolución - Importancia en la actualidad	
 
 ### 🧠 **[2. Conceptos Básicos](2.md)** > *Fundamentos técnicos esenciales* - Hypervisores - Máquinas virtuales - Contenedores
